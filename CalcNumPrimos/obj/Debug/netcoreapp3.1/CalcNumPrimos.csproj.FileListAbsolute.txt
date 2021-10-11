@@ -1,0 +1,14 @@
+C:\Users\gisely.araujo\source\repos\CalcNumPrimos\obj\Debug\netcoreapp3.1\CalcNumPrimos.AssemblyInfoInputs.cache
+C:\Users\gisely.araujo\source\repos\CalcNumPrimos\obj\Debug\netcoreapp3.1\CalcNumPrimos.AssemblyInfo.cs
+C:\Users\gisely.araujo\source\repos\CalcNumPrimos\obj\Debug\netcoreapp3.1\CalcNumPrimos.csproj.CoreCompileInputs.cache
+C:\Users\gisely.araujo\source\repos\CalcNumPrimos\bin\Debug\netcoreapp3.1\CalcNumPrimos.exe
+C:\Users\gisely.araujo\source\repos\CalcNumPrimos\bin\Debug\netcoreapp3.1\CalcNumPrimos.deps.json
+C:\Users\gisely.araujo\source\repos\CalcNumPrimos\bin\Debug\netcoreapp3.1\CalcNumPrimos.runtimeconfig.json
+C:\Users\gisely.araujo\source\repos\CalcNumPrimos\bin\Debug\netcoreapp3.1\CalcNumPrimos.runtimeconfig.dev.json
+C:\Users\gisely.araujo\source\repos\CalcNumPrimos\bin\Debug\netcoreapp3.1\CalcNumPrimos.dll
+C:\Users\gisely.araujo\source\repos\CalcNumPrimos\bin\Debug\netcoreapp3.1\CalcNumPrimos.pdb
+C:\Users\gisely.araujo\source\repos\CalcNumPrimos\obj\Debug\netcoreapp3.1\CalcNumPrimos.dll
+C:\Users\gisely.araujo\source\repos\CalcNumPrimos\obj\Debug\netcoreapp3.1\CalcNumPrimos.pdb
+C:\Users\gisely.araujo\source\repos\CalcNumPrimos\obj\Debug\netcoreapp3.1\CalcNumPrimos.genruntimeconfig.cache
+C:\Users\gisely.araujo\source\repos\CalcNumPrimos\obj\Debug\netcoreapp3.1\CalcNumPrimos.csproj.AssemblyReference.cache
+C:\Users\gisely.araujo\source\repos\CalcNumPrimos\obj\Debug\netcoreapp3.1\CalcNumPrimos.GeneratedMSBuildEditorConfig.editorconfig
